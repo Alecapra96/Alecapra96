@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alecapra96
 - 👀 I’m interested in securty
-- 🌱 I’m currently learning Tec. SUP en redes e infraestructura
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m working in voyansi
 - 📫 How to reach me in instagram @alejandro_capra
 
 <!---
